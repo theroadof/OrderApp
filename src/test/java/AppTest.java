@@ -26,6 +26,7 @@ public class AppTest {
                 "-----------------------------------\n" +
                 "Total: 25 yuan\n" +
                 "==================================="));
+        System.out.println(receiptString);
     }
 
     @Test
@@ -44,7 +45,7 @@ public class AppTest {
                 "-----------------------------------\n" +
                 "Total: 26 yuan\n" +
                 "==================================="));
-
+        System.out.println(receiptString);
     }
 
 
@@ -60,6 +61,6 @@ public class AppTest {
                 "-----------------------------------\n" +
                 "Total: 24 yuan\n" +
                 "==================================="));
-
+        System.out.println(receiptString);
     }
 }
